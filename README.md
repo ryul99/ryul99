@@ -1,4 +1,4 @@
-### Hi 👋, I'm Changmin Choi from Korea
+### Hi 👋, I'm Changmin Choi from South Korea
 
 <img align='right' src='https://torch.vision/assets/profile-placeholder.png' width='200"'>
 
