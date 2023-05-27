@@ -11,6 +11,6 @@
 
 ✨ I'm interested in Deep Learning, DevOps, Linux, Algorithm
 
-✒ Please see my tech blog! ([torch.vision](https://torch.vision))
+✒ Please see my tech blog! ( [torch.vision](https://torch.vision) )
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryul99&count_private=true&show_icons=true&)
