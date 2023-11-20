@@ -9,7 +9,9 @@
 
 📚 I'm undergraduate student at Seoul National University (Computer Science and Engineering)
 
-✨ I'm interested in Deep Learning, DevOps, Linux, Algorithm
+✨ I'm interested in combination of ML and System Engineering
+
+😍 I like Linux and coding with Vim
 
 ✒ Please see my tech blog! ( [torch.vision](https://torch.vision) )
 
