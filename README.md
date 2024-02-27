@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-cmchoi9901@gmail.com-red?style=flat-square&labelColor=red&logo=Gmail&logoColor=white&link=mailto:cmchoi9901@gmail.com)](mailto:cmchoi9901@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-ryul99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryul99/)](https://www.linkedin.com/in/ryul99)
 
-📚 I'm undergraduate student at Seoul National University (Computer Science and Engineering)
+📚 I majored in Computer Science and Engineering at Seoul National University
 
 ✨ I'm interested in combination of ML and System Engineering
 
