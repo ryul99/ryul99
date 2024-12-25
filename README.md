@@ -13,4 +13,4 @@
 
 ✒ Please see my tech blog! ( [torch.vision](https://torch.vision) )
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryul99&count_private=true&show_icons=true&)
+![ryul99's github stats](https://github-readme-stats.vercel.app/api?username=ryul99&count_private=true&show_icons=true)
